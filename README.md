@@ -1,11 +1,10 @@
-# 👋 Olá, eu sou Vinicius Afonso!
+# 👋 Olá, eu sou Isabelle Sombrio!
 
 Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor com foco em [área de atuação, ex: desenvolvimento web, análise de dados, etc.] e uma paixão por criar soluções inovadoras e eficientes. 🌟
 
-- 🎓 **Experiência/Área de Estudo:** [Descreva brevemente sua experiência ou formação]
-- 🔭 **Atualmente, estou trabalhando em:** [Nome do Projeto ou Objetivo Atual]
-- 🌱 **Estou aprendendo:** [Tecnologias ou áreas de conhecimento em que você está se aprofundando]
-- 💬 **Pergunte-me sobre:** [Tecnologias ou temas que você domina e sobre os quais ficaria feliz em ajudar]
+- 🎓 **Experiência/Área de Estudo:** Atualmente sou aluno do Terceiro ano do Ensino Médio e estou fazendo um curso de programação.
+- 🌱 **Estou aprendendo:** CSS avançado, JavaScripht 
+- 💬 **Pergunte-me sobre:** Tecnologias, HTML5, CSS ou Lógica de programação.
 
 ---
 
