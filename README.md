@@ -2,9 +2,9 @@
 
 Seja bem-vindo(a) ao meu perfil no GitHub! 🌟
 
-- 🎓 **Experiência/Área de Estudo:** Atualmente sou aluno do Terceiro ano do Ensino Médio e estou fazendo um curso de programação.
-- 🌱 **Estou aprendendo:** CSS avançado, JavaScripht 
-- 💬 **Pergunte-me sobre:** Tecnologias, HTML5, CSS ou Lógica de programação.
+- 🎓 **Experiência/Área de Estudo:** Atualmente sou aluna do Terceiro ano do Ensino Médio, estou fazendo um curso voltado para Product Manager e outro focado em Java pelo Entra21.
+- 🌱 **Estou aprendendo:**JavaScripht avançado
+- 💬 **Cursos que já fiz:** UX/UI Desing, HTML5, CSS ,JavaScripth, Lógica de programação e Metodologias ágeis.
 
 
 ## 🌐 Vamos nos Conectar!
@@ -12,14 +12,6 @@ Seja bem-vindo(a) ao meu perfil no GitHub! 🌟
 Sinta-se à vontade para me seguir ou conectar-se comigo em outras plataformas:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelle-sombrio/)
-
-
----
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
 
 ---
 
