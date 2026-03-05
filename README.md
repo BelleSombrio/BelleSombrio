@@ -1,4 +1,4 @@
-#  Olá, eu sou Isabelle Sombrio!
+# Isabelle Sombrio
 
 Seja bem-vindo(a) ao meu perfil no GitHub! 🌟
 
